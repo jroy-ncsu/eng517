@@ -32,3 +32,16 @@ NC State's Office of information Technology recommends being suspicious before c
 **Suspicious Email:** A suspicious email is an unexpected message that contains one or more indicators of phishing, such as an unusual sender address, suspicious link, unexpected request for information, or urgent language.
 
 **Report Phishing:** Report Phishing is Gmail's built-in function for reporting an email that appears to be a phishing attempt.
+
+### 3.0 TASK 1: IDENTIFY A POTENTIAL PHISHING EMAIL
+
+Before you click a link, open an attachment, reply, or provide information, examine the message carefully.
+
+**Step 1: Check the sender's email address**
+
+1. Open the suspicious message and check the sender's email address. Make sure that the email address seems legitimate.
+2. NC State specifically advises students to verify the sender's email address, including messages that appear to be received from familiar organizations.
+
+<img width="1828" height="1236" alt="Screenshot 2026-09-22 110528" src="https://github.com/user-attachments/assets/c01fb01d-5d85-4a5e-a017-1c9a4d07c0d0" />
+
+#### Figure 1: Examining the sender's email address and checking the format of their email address.
