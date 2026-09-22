@@ -14,7 +14,7 @@
 
 ## Procedure
 
-### 1.0 PURPOSE
+## 1.0 PURPOSE
 
 Cybercriminals cater phishing attacks to university audiences through email with links or attachments that when opened, might install malware that can cause many problems ranging from locking you out of your device to stealing and sharing your data. Phishing emails will trick users into revealing passwords, personal information, and other sensitive data. New NC State students may encounter phishing emails that imitate their instructors, university offices, or other institutions.
 
@@ -25,7 +25,7 @@ So, they must follow two main procedures to avoid a phishing scam:
 
 NC State's Office of information Technology recommends being suspicious before clicking a link, opening an attachment, providing username and password, approving a Duo push notification, and reporting suspected phishing. Scammers may target students with fake NC State login pages to infiltrate network databases and steal data, so it is everyone's responsibility to carefully examine all URLs before clicking them.
 
-### 2.0 DEFINITIONS
+## 2.0 DEFINITIONS
 
 **Phishing:** Phishing is an attempt to deceive a person into providing sensitive information or performing an action that benefits scammers.
 
@@ -33,7 +33,7 @@ NC State's Office of information Technology recommends being suspicious before c
 
 **Report Phishing:** Report Phishing is Gmail's built-in function for reporting an email that appears to be a phishing attempt.
 
-### 3.0 TASK 1: IDENTIFY A POTENTIAL PHISHING EMAIL
+## 3.0 TASK 1: IDENTIFY A POTENTIAL PHISHING EMAIL
 
 Before you click a link, open an attachment, reply, or provide information, examine the message carefully.
 
@@ -65,8 +65,32 @@ Be careful when a message creates urgency or asks you to provide information exp
 <br><br>
 <img width="1804" height="1288" alt="image" src="https://github.com/user-attachments/assets/b24b4d78-2a70-4cd6-98fe-f69d797625bb" />
 
-
 #### Figure 3: Identifying an unexpected requested in a suspicious email with links or attachments.
 <br>
 
-**STEP 3: Check links before opening them**
+**STEP 3: Check suspicious links before opening them**
+
+NC State's phishing guidance specifically recommends hovering over links and checking where they may lead before clicking.
+
+1. Place your mouse cursor over a hyperlink without clicking it and examine the destination address that appears.
+2. If the possible destination address does not match the organization represented by the message, do not click the link.
+<br>
+
+<img width="2240" height="1484" alt="Screenshot 2026-09-22 121120" src="https://github.com/user-attachments/assets/78ad5676-acbb-4ee2-8463-a45e5253ea55" />
+
+#### Figure 4: Identifying an unexpected requested in a suspicious email with links or attachments.
+<br>
+
+**STEP 4: Check the login-page address before entering credentials**
+
+NC State has a secured login access page, so if a suspicious email directs you to a login page, check before entering your username and password.
+
+1. Check the website address or URL in the browser's address bar.
+2. NC State's guidelines note that during login, students may encounter both Shibboleth and Entra ID login pages which may be identified by `shib.ncsu.edu` and `login.microsoftonline.com` legitimate Shibboleth and Entra ID login URLs.
+
+<img width="1560" height="1000" alt="Screenshot 2026-09-22 122010" src="https://github.com/user-attachments/assets/640bdc9d-4011-4132-b8b0-6b43c8c65be5" />
+
+#### Figure 5: Checking the login-page URL address before entering credentials
+<br>
+
+**STEP 5: Do not interact with the suspicious fraudulent message**
