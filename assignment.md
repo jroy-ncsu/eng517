@@ -37,11 +37,36 @@ NC State's Office of information Technology recommends being suspicious before c
 
 Before you click a link, open an attachment, reply, or provide information, examine the message carefully.
 
-**Step 1: Check the sender's email address**
+**STEP 1: Check the sender's email address**
 
 1. Open the suspicious message and check the sender's email address. Make sure that the email address seems legitimate.
 2. NC State specifically advises students to verify the sender's email address, including messages that appear to be received from familiar organizations.
+<br><br>
 
 <img width="1828" height="1236" alt="Screenshot 2026-09-22 110528" src="https://github.com/user-attachments/assets/c01fb01d-5d85-4a5e-a017-1c9a4d07c0d0" />
 
 #### Figure 1: Examining the sender's email address and checking the format of their email address.
+<br>
+
+**STEP 2: Examine the message request**
+
+Be careful when a message creates urgency or asks you to provide information expectedly.
+
+1. Generic greetings, an unusual sense of urgency, and awkward wordings and misspellings.
+2. Emails saying that they have noticed suspicious activity or login attempts to your account.
+3. Asking you to confirm personal or payment information.
+4. Including a false attachment and asking you to click on a link to make a payment.
+5. Claiming that you are eligible for refund or monetary withdrawal.
+<br>
+
+<img width="1560" height="1198" alt="Screenshot 2026-09-22 112710" src="https://github.com/user-attachments/assets/d9f10548-a108-4492-b4aa-98959767c512" />
+
+#### Figure 2: Identifying an unexpected requested in a suspicious email with links or attachments.
+<br><br>
+<img width="1804" height="1288" alt="image" src="https://github.com/user-attachments/assets/b24b4d78-2a70-4cd6-98fe-f69d797625bb" />
+
+
+#### Figure 3: Identifying an unexpected requested in a suspicious email with links or attachments.
+<br>
+
+**STEP 3: Check links before opening them**
