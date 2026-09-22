@@ -1,1 +1,9 @@
 ## Analysis of the Instructional Video
+
+I recorded this instructional video for the same audience as the written procedure: new NC State students who need to learn how to identify phishing emails and how to report them. The primary difference is that the video presents the task visually and allows the audience to observe the sequence of actions to be performed rather than reading each step.
+
+For physical design, I kept the example email screenshots ready to be displayed to viewers so that their subject matter can be focused on instantly. I used simple Zoom screen recording because the task involves navigating a digital interface. The cursor is visible during important actions so that viewers can follow where the action occurs. I used visual emphasis through cursor movement, zoom in feature, and markups on screen to direct viewers' attention toward important interface elements instead of adding unnecessary effects.
+
+For cognitive design, I organized the video according to the actual sequence of the task. The video begins by looking at common phishing email examples, then demonstrates opening the message, locating the More menu, selecting Report phishing, and confirming the action. I aimed to have viewers to focus on one specific goal that are; identifying and reporting phishing email. I used short verbal explanations instead of providing excessive background information.
+
+For affective design, I tried using a calm and professional tone as cybersecurity procedures can initially appear intimidating to new students. At the end, I emphasized that students should  ask for help when they are faced with a difficult situation. This approach is intended to make the task feel manageable rather than overwhelming for the new students. Overall, the video complements the written procedure by showing the visual sequence of actions on screen while maintaining the same purpose and audience.
