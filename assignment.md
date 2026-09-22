@@ -94,3 +94,15 @@ NC State has a secured login access page, so if a suspicious email directs you t
 <br>
 
 **STEP 5: Do not interact with the suspicious fraudulent message**
+
+NC State advise new students to deny unexpected Duo verification requests upon receiving a Duo notification that they did not initiate. Also, if the phishing email message appears to be suspicious:
+
+1. Do not send a reply to the sender.
+2. Do not click suspicious links.
+3. Do not open unexpected attachments.
+4. Do not provide your password.
+
+## 3.0 TASK 2: REPORT THE POTENTIAL PHISHING EMAIL
+
+Google has built in scanning that prevents most malware from reaching your inbox, but some still gets through. Hence, be suspicious of emails, links, or attachments you are not expecting. Ensure that your devices have a reputable anti-malware installed and that all your device applications are up-to-date.
+
