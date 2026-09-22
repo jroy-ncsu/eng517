@@ -151,3 +151,31 @@ After you have completed reading through these technical instructions of identif
 3. Check a hyperlink destination safely and recognize suspicious login pages.
 4. Report a suspected phishing email through Gmail's "Report Phishing" feature.
 5. Know when and how to contact the NC State Help Desk.
+
+## Analysis of the Written Procedure
+
+Keeping the understanding level of new NC State students, I have designed this procedure in a way so that they can easily learn to identify and report a phishing email. As they will be the "read to learn to do" audience, I have organized the document around their needs to perform rather than beginning with an extended explanation of phishing. After few basic definitions, the whole procedure explains from identifying a potential phishing email to reporting it, allowing the new NC State students to follow the instructions while completing the task.
+
+I tried keeping the approach to a minimal level by providing information only needed for completing the task instead of including long explanations about cybersecurity. Following Carroll's (1990) approach to minimalism, the technical instruction procedure emphasizes on action and allows new NC State students to follow the necessary steps directly that will help them understand why a particular action is necessary on each step.
+
+The main procedure is organized into two major tasks: identifying a potential phishing email and reporting it. Each task is divided into sequential steps with numbered structure that will allow students to locate and complete individual actions easily. For steps, I have mostly used imperative statements such as "Do not click suspicious links" or "Select Report phishing" etc.
+
+I also maintained conventional instructional principles stated by van der Meij and Gellevij (2004) with a clear purpose, definitions, sequential actions, and an expected result. The procedure separates major tasks with headings so that students can quickly locate the information they need.
+
+Finally, I used several screenshots to support the written instructions that directly focuses on the interface element relevant to the accompanying step. I cropped and annotated the images with red and green borders and markers to direct students' attention to important areas such as the sender address, URL, More menu, and Report phishing option which follows Arnheim's (1969) emphasis on the communicative function of visual information.
+
+## References
+
+Arnheim, R. (1969). Visual thinking. University of California Press.
+
+Carroll, J. M. (1990). The Nurnberg Funnel: Designing minimalist instruction for practical computer skill. MIT Press.
+
+Morain, M., & Swarts, J. (2012). YouTutorial: A framework for assessing instructional online video. Technical Communication Quarterly, 21(1), 6–24. https://doi.org/10.1080/10572252.2012.626690
+
+NC State University. (n.d.). Cybersecurity at NC State. https://cybersecurity.ncsu.edu/
+
+NC State University. (n.d.). Office of Information Technology. https://oit.ncsu.edu/
+
+Redish, J. (2012). Letting go of the words: Writing web content that works (2nd ed.). Morgan Kaufmann.
+
+van der Meij, H., & Gellevij, M. R. M. (2004). The four components of a procedure. IEEE Transactions on Professional Communication, 47(1), 5–14. https://doi.org/10.1109/TPC.2004.824292
