@@ -104,5 +104,50 @@ NC State advise new students to deny unexpected Duo verification requests upon r
 
 ## 3.0 TASK 2: REPORT THE POTENTIAL PHISHING EMAIL
 
-Google has built in scanning that prevents most malware from reaching your inbox, but some still gets through. Hence, be suspicious of emails, links, or attachments you are not expecting. Ensure that your devices have a reputable anti-malware installed and that all your device applications are up-to-date.
+Google has built in scanning that prevents most malware from reaching your inbox, but some still gets through. Hence, be suspicious of emails, links, or attachments you are not expecting. Ensure that your devices have a reputable anti-malware installed and that all your device applications are up-to-date. After you are successfully able to identify a suspicious email, use Gmail's reporting feature.
 
+**STEP 1: Open the suspicious phishing email**
+
+1. Open the message in your NC State Gmail inbox
+2. Do not click any suspicious links or attachments from the message.
+
+**STEP 2: Open the suspicious phishing email**
+
+At the top-right of the email opened, you can locate the `More` menu represented by three vertical dots. Click the More menu to report the phishing email.
+
+<img width="2102" height="1290" alt="Screenshot 2026-09-22 124514" src="https://github.com/user-attachments/assets/200d5d92-f662-40b1-b74e-8424ba5e5564" />
+
+#### Figure 6: Locate More Menu on email from top-right corner.
+<br>
+
+**STEP 3: Select "Report Phishing"**
+
+NC State's Office of Information Technology currently recommends using Gmail's built-in Report phishing feature to report suspicious emails. So, from the `More` menu, select **Report Phishing**
+
+<img width="2106" height="1284" alt="Screenshot 2026-09-22 125304" src="https://github.com/user-attachments/assets/47ef8d9b-30c2-40dd-80e0-9e9d6283a274" />
+
+#### Figure 7: Select Report Phishing from More menu on top-right corner.
+<br>
+
+**STEP 4: Confirm the Phishing Report**
+
+After selecting Report Phishing, Gmail will ask you to confirm the `Report Phishing Message' with appropriate instructions. Click on the confirmation so that the message will be handled through Gmail's reporting process.
+
+<img width="2098" height="1298" alt="Screenshot 2026-09-22 125426" src="https://github.com/user-attachments/assets/f06de6b8-943d-44f5-9fd2-2578daeb4a40" />
+
+#### Figure 8: Confirming the Report Phishing Message to be handled by Gmail.
+<br>
+
+**STEP 5: Contact NC State IT Service Portal for additional assistance**
+
+Even after staying vigilant, if you have still entered your password into a suspected phishing site or disclosed sensitive information, change your password immediately and contact the NC State Help Desk through the NC State IT Service Portal or by phone at `919-515-HELP (4357)`. NC State also provides guidance to report suspected phishing to its cybersecurity team.
+
+## 5.0 EXPECTED RESULT
+
+After you have completed reading through these technical instructions of identifying and reporting a phishing email, you should be able to:
+
+1. Identify common phishing indicators and suspicious links on email.
+2. Examine a sender address before replying and avoid interacting with them.
+3. Check a hyperlink destination safely and recognize suspicious login pages.
+4. Report a suspected phishing email through Gmail's "Report Phishing" feature.
+5. Know when and how to contact the NC State Help Desk.
