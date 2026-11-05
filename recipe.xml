@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="recipe.css"?>
+<!DOCTYPE recipe SYSTEM "recipe.dtd">
+<recipe>
+  <info>
+    <title>Chocolate Chip Cookies</title>
+
+    <description>A simple recipe for homemade chocolate chip
+    cookies.</description>
+
+    <prepTime>15 minutes</prepTime>
+
+    <cookTime>12 minutes</cookTime>
+
+    <servings>24 cookies</servings>
+  </info>
+
+  <ingredients>
+    <ingredient>
+      <amount>1 cup</amount>
+
+      <name>butter</name>
+    </ingredient>
+
+    <ingredient>
+      <amount>1 cup</amount>
+
+      <name>brown sugar</name>
+    </ingredient>
+
+    <ingredient>
+      <amount>3</amount>
+
+      <name>eggs</name>
+    </ingredient>
+
+    <ingredient>
+      <amount>2 teaspoons</amount>
+
+      <name>vanilla extract</name>
+    </ingredient>
+
+    <ingredient>
+      <amount>2 1/2 cups</amount>
+
+      <name>all-purpose flour</name>
+    </ingredient>
+
+    <ingredient>
+      <amount>1 teaspoon</amount>
+
+      <name>baking soda</name>
+    </ingredient>
+
+    <ingredient>
+      <amount>2 cups</amount>
+
+      <name>chocolate chips</name>
+    </ingredient>
+  </ingredients>
+
+  <instructions>
+    <step>Preheat the oven to 350 degrees Fahrenheit.</step>
+
+    <step>Cream the butter and sugars together in a large bowl.</step>
+
+    <step>Add the eggs and vanilla extract and mix well.</step>
+
+    <step>Gradually add the flour and baking soda.</step>
+
+    <step>Stir in the chocolate chips.</step>
+
+    <step>Place spoonfuls of dough onto a baking sheet.</step>
+
+    <step>Bake for approximately 12 minutes.</step>
+
+    <step>Allow the cookies to cool before serving.</step>
+  </instructions>
+
+  <notes>Store leftover cookies in an airtight container for
+  crunchiness.</notes>
+</recipe>

@@ -1,0 +1,70 @@
+/* Recipe Document Styling */
+
+recipe {
+    display: block;
+    font-family: Arial, sans-serif;
+    margin: 25px;
+    color: #333333;
+}
+
+info {
+    display: block;
+    background-color: #fff3e6;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+title {
+    display: block;
+    font-size: 26px;
+    font-weight: bold;
+    color: #8B4513;
+    margin-bottom: 12px;
+}
+
+description {
+    display: block;
+    font-style: italic;
+    margin-bottom: 12px;
+}
+
+prepTime, cookTime, servings {
+    display: block;
+    margin: 5px 0;
+}
+
+ingredients {
+    display: block;
+    background-color: #f2f7ed;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+ingredient {
+    display: block;
+    margin: 8px 0;
+}
+
+amount, name {
+    display: inline;
+    margin-right: 10px;
+}
+
+instructions {
+    display: block;
+    background-color: #f0f4fa;
+    padding: 15px;
+}
+
+step {
+    display: list-item;
+    list-style-type: decimal;
+    margin: 8px 0 8px 25px;
+}
+
+notes {
+    display: block;
+    font-style: italic;
+    color: #666666;
+    margin-top: 20px;
+}

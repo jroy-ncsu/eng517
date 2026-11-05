@@ -1,0 +1,18 @@
+<!ELEMENT recipe (info, ingredients, instructions, notes?)>
+
+<!ELEMENT info (title, description?, prepTime, cookTime, servings)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT prepTime (#PCDATA)>
+<!ELEMENT cookTime (#PCDATA)>
+<!ELEMENT servings (#PCDATA)>
+
+<!ELEMENT ingredients (ingredient+)>
+<!ELEMENT ingredient (amount, name)>
+<!ELEMENT amount (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT instructions (step+)>
+<!ELEMENT step (#PCDATA)>
+
+<!ELEMENT notes (#PCDATA)>
